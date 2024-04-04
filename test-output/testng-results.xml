@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-14T22:54:53 IST" name="Suite" finished-at="2024-03-14T22:57:23 IST" duration-ms="150214">
+    <groups>
+    </groups>
+    <test started-at="2024-03-14T22:54:53 IST" name="Test" finished-at="2024-03-14T22:57:23 IST" duration-ms="150214">
+      <class name="be.cognizant.WorldClockTest">
+        <test-method is-config="true" signature="DriverSetUp()[pri:0, instance:be.cognizant.WorldClockTest@368247b9]" started-at="2024-03-14T22:54:54 IST" name="DriverSetUp" finished-at="2024-03-14T22:55:57 IST" duration-ms="62915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverSetUp -->
+        <test-method signature="userInformation()[pri:0, instance:be.cognizant.WorldClockTest@368247b9]" started-at="2024-03-14T22:55:57 IST" name="userInformation" finished-at="2024-03-14T22:56:04 IST" duration-ms="7158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userInformation -->
+        <test-method signature="clock()[pri:1, instance:be.cognizant.WorldClockTest@368247b9]" started-at="2024-03-14T22:56:04 IST" name="clock" finished-at="2024-03-14T22:56:35 IST" duration-ms="30678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clock -->
+        <test-method signature="oneCognizant()[pri:2, instance:be.cognizant.WorldClockTest@368247b9]" started-at="2024-03-14T22:56:35 IST" name="oneCognizant" finished-at="2024-03-14T22:57:14 IST" duration-ms="38761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneCognizant -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:be.cognizant.WorldClockTest@368247b9]" started-at="2024-03-14T22:57:14 IST" name="tearDown" finished-at="2024-03-14T22:57:23 IST" duration-ms="9091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- be.cognizant.WorldClockTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
